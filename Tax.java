@@ -1,3 +1,4 @@
+//calculates total
 import java.util.Scanner;
 public class Tax
 {
