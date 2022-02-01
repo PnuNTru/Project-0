@@ -1,4 +1,5 @@
 //calculates total
+//after taxes and tip for each person in the group
 import java.util.Scanner;
 public class Tax
 {
